@@ -1,0 +1,717 @@
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30929 in 0.0004 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30929 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30929 messages, 0 unconfirmed, 30929 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30930 in 0.0002 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30930 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30930 messages, 0 unconfirmed, 30930 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30931 in 0.0003 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30931 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30931 messages, 0 unconfirmed, 30931 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30932 in 0.0002 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30932 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30932 messages, 0 unconfirmed, 30932 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30933 in 0.0004 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30933 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30933 messages, 0 unconfirmed, 30933 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30934 in 0.0071 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30934 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30934 messages, 0 unconfirmed, 30934 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30935 in 0.0002 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30935 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30935 messages, 0 unconfirmed, 30935 acked, 0 nacked
+2025-04-11 17:41:53 - INFO - publisher:201 - Published message #30936 in 0.0016 seconds
+2025-04-11 17:41:53 - INFO - publisher:148 - Received ack for delivery tag: 30936 (multiple: False)
+2025-04-11 17:41:53 - INFO - publisher:165 - Published 30936 messages, 0 unconfirmed, 30936 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30937 in 0.0166 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30937 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30937 messages, 0 unconfirmed, 30937 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30938 in 0.0005 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30938 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30938 messages, 0 unconfirmed, 30938 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30939 in 0.0002 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30939 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30939 messages, 0 unconfirmed, 30939 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30940 in 0.0006 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30940 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30940 messages, 0 unconfirmed, 30940 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30941 in 0.0006 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30941 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30941 messages, 0 unconfirmed, 30941 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30942 in 0.0067 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30942 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30942 messages, 0 unconfirmed, 30942 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30943 in 0.0010 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30943 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30943 messages, 0 unconfirmed, 30943 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30944 in 0.0003 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30944 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30944 messages, 0 unconfirmed, 30944 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30945 in 0.0012 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30945 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30945 messages, 0 unconfirmed, 30945 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30946 in 0.0003 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30946 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30946 messages, 0 unconfirmed, 30946 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30947 in 0.0043 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30947 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30947 messages, 0 unconfirmed, 30947 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30948 in 0.0031 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30948 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30948 messages, 0 unconfirmed, 30948 acked, 0 nacked
+2025-04-11 17:41:54 - INFO - publisher:201 - Published message #30949 in 0.0045 seconds
+2025-04-11 17:41:54 - INFO - publisher:148 - Received ack for delivery tag: 30949 (multiple: False)
+2025-04-11 17:41:54 - INFO - publisher:165 - Published 30949 messages, 0 unconfirmed, 30949 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30950 in 0.0027 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30950 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30950 messages, 0 unconfirmed, 30950 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30951 in 0.0014 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30951 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30951 messages, 0 unconfirmed, 30951 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30952 in 0.0022 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30952 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30952 messages, 0 unconfirmed, 30952 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30953 in 0.0003 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30953 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30953 messages, 0 unconfirmed, 30953 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30954 in 0.0041 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30954 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30954 messages, 0 unconfirmed, 30954 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30955 in 0.0051 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30955 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30955 messages, 0 unconfirmed, 30955 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30956 in 0.0003 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30956 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30956 messages, 0 unconfirmed, 30956 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30957 in 0.0011 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30957 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30957 messages, 0 unconfirmed, 30957 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30958 in 0.0033 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30958 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30958 messages, 0 unconfirmed, 30958 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30959 in 0.0005 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30959 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30959 messages, 0 unconfirmed, 30959 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30960 in 0.0002 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30960 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30960 messages, 0 unconfirmed, 30960 acked, 0 nacked
+2025-04-11 17:41:55 - INFO - publisher:201 - Published message #30961 in 0.0022 seconds
+2025-04-11 17:41:55 - INFO - publisher:148 - Received ack for delivery tag: 30961 (multiple: False)
+2025-04-11 17:41:55 - INFO - publisher:165 - Published 30961 messages, 0 unconfirmed, 30961 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30962 in 0.0007 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30962 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30962 messages, 0 unconfirmed, 30962 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30963 in 0.0003 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30963 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30963 messages, 0 unconfirmed, 30963 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30964 in 0.0006 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30964 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30964 messages, 0 unconfirmed, 30964 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30965 in 0.0021 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30965 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30965 messages, 0 unconfirmed, 30965 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30966 in 0.0021 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30966 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30966 messages, 0 unconfirmed, 30966 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30967 in 0.0004 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30967 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30967 messages, 0 unconfirmed, 30967 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30968 in 0.0003 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30968 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30968 messages, 0 unconfirmed, 30968 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30969 in 0.0016 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30969 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30969 messages, 0 unconfirmed, 30969 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30970 in 0.0086 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30970 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30970 messages, 0 unconfirmed, 30970 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30971 in 0.0003 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30971 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30971 messages, 0 unconfirmed, 30971 acked, 0 nacked
+2025-04-11 17:41:56 - INFO - publisher:201 - Published message #30972 in 0.0004 seconds
+2025-04-11 17:41:56 - INFO - publisher:148 - Received ack for delivery tag: 30972 (multiple: False)
+2025-04-11 17:41:56 - INFO - publisher:165 - Published 30972 messages, 0 unconfirmed, 30972 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30973 in 0.0022 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30973 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30973 messages, 0 unconfirmed, 30973 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30974 in 0.0002 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30974 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30974 messages, 0 unconfirmed, 30974 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30975 in 0.0003 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30975 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30975 messages, 0 unconfirmed, 30975 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30976 in 0.0003 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30976 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30976 messages, 0 unconfirmed, 30976 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30977 in 0.0003 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30977 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30977 messages, 0 unconfirmed, 30977 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30978 in 0.0004 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30978 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30978 messages, 0 unconfirmed, 30978 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30979 in 0.0003 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30979 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30979 messages, 0 unconfirmed, 30979 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30980 in 0.0005 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30980 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30980 messages, 0 unconfirmed, 30980 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30981 in 0.0003 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30981 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30981 messages, 0 unconfirmed, 30981 acked, 0 nacked
+2025-04-11 17:41:57 - INFO - publisher:201 - Published message #30982 in 0.0006 seconds
+2025-04-11 17:41:57 - INFO - publisher:148 - Received ack for delivery tag: 30982 (multiple: False)
+2025-04-11 17:41:57 - INFO - publisher:165 - Published 30982 messages, 0 unconfirmed, 30982 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30983 in 0.0005 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30983 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30983 messages, 0 unconfirmed, 30983 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30984 in 0.0004 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30984 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30984 messages, 0 unconfirmed, 30984 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30985 in 0.0003 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30985 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30985 messages, 0 unconfirmed, 30985 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30986 in 0.0003 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30986 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30986 messages, 0 unconfirmed, 30986 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30987 in 0.0005 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30987 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30987 messages, 0 unconfirmed, 30987 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30988 in 0.0003 seconds
+2025-04-11 17:41:58 - INFO - publisher:148 - Received ack for delivery tag: 30988 (multiple: False)
+2025-04-11 17:41:58 - INFO - publisher:165 - Published 30988 messages, 0 unconfirmed, 30988 acked, 0 nacked
+2025-04-11 17:41:58 - INFO - publisher:201 - Published message #30989 in 0.0006 seconds
+2025-04-11 17:41:59 - INFO - publisher:148 - Received ack for delivery tag: 30989 (multiple: False)
+2025-04-11 17:41:59 - INFO - publisher:165 - Published 30989 messages, 0 unconfirmed, 30989 acked, 0 nacked
+2025-04-11 17:41:59 - INFO - publisher:201 - Published message #30990 in 0.0003 seconds
+2025-04-11 17:41:59 - INFO - publisher:148 - Received ack for delivery tag: 30990 (multiple: False)
+2025-04-11 17:41:59 - INFO - publisher:165 - Published 30990 messages, 0 unconfirmed, 30990 acked, 0 nacked
+2025-04-11 17:41:59 - INFO - publisher:201 - Published message #30991 in 0.0005 seconds
+2025-04-11 17:41:59 - INFO - publisher:148 - Received ack for delivery tag: 30991 (multiple: False)
+2025-04-11 17:41:59 - INFO - publisher:165 - Published 30991 messages, 0 unconfirmed, 30991 acked, 0 nacked
+2025-04-11 17:41:59 - INFO - publisher:201 - Published message #30992 in 0.0004 seconds
+2025-04-11 17:41:59 - INFO - publisher:148 - Received ack for delivery tag: 30992 (multiple: False)
+2025-04-11 17:41:59 - INFO - publisher:165 - Published 30992 messages, 0 unconfirmed, 30992 acked, 0 nacked
+2025-04-11 17:41:59 - INFO - publisher:201 - Published message #30993 in 0.0004 seconds
+2025-04-11 17:41:59 - INFO - publisher:148 - Received ack for delivery tag: 30993 (multiple: False)
+2025-04-11 17:41:59 - INFO - publisher:165 - Published 30993 messages, 0 unconfirmed, 30993 acked, 0 nacked
+2025-04-11 17:42:00 - INFO - publisher:201 - Published message #30994 in 0.0006 seconds
+2025-04-11 17:42:00 - INFO - publisher:148 - Received ack for delivery tag: 30994 (multiple: False)
+2025-04-11 17:42:00 - INFO - publisher:165 - Published 30994 messages, 0 unconfirmed, 30994 acked, 0 nacked
+2025-04-11 17:42:00 - INFO - publisher:201 - Published message #30995 in 0.0003 seconds
+2025-04-11 17:42:00 - INFO - publisher:148 - Received ack for delivery tag: 30995 (multiple: False)
+2025-04-11 17:42:00 - INFO - publisher:165 - Published 30995 messages, 0 unconfirmed, 30995 acked, 0 nacked
+2025-04-11 17:42:00 - INFO - publisher:201 - Published message #30996 in 0.0003 seconds
+2025-04-11 17:42:00 - INFO - publisher:148 - Received ack for delivery tag: 30996 (multiple: False)
+2025-04-11 17:42:00 - INFO - publisher:165 - Published 30996 messages, 0 unconfirmed, 30996 acked, 0 nacked
+2025-04-11 17:42:00 - INFO - publisher:201 - Published message #30997 in 0.0004 seconds
+2025-04-11 17:42:00 - INFO - publisher:148 - Received ack for delivery tag: 30997 (multiple: False)
+2025-04-11 17:42:00 - INFO - publisher:165 - Published 30997 messages, 0 unconfirmed, 30997 acked, 0 nacked
+2025-04-11 17:42:00 - INFO - publisher:201 - Published message #30998 in 0.0002 seconds
+2025-04-11 17:42:00 - INFO - publisher:148 - Received ack for delivery tag: 30998 (multiple: False)
+2025-04-11 17:42:00 - INFO - publisher:165 - Published 30998 messages, 0 unconfirmed, 30998 acked, 0 nacked
+2025-04-11 17:42:01 - INFO - publisher:201 - Published message #30999 in 0.0014 seconds
+2025-04-11 17:42:01 - INFO - publisher:148 - Received ack for delivery tag: 30999 (multiple: False)
+2025-04-11 17:42:01 - INFO - publisher:165 - Published 30999 messages, 0 unconfirmed, 30999 acked, 0 nacked
+2025-04-11 17:42:01 - INFO - publisher:201 - Published message #31000 in 0.0003 seconds
+2025-04-11 17:42:01 - INFO - publisher:148 - Received ack for delivery tag: 31000 (multiple: False)
+2025-04-11 17:42:01 - INFO - publisher:165 - Published 31000 messages, 0 unconfirmed, 31000 acked, 0 nacked
+2025-04-11 17:42:01 - INFO - publisher:201 - Published message #31001 in 0.0002 seconds
+2025-04-11 17:42:01 - INFO - publisher:148 - Received ack for delivery tag: 31001 (multiple: False)
+2025-04-11 17:42:01 - INFO - publisher:165 - Published 31001 messages, 0 unconfirmed, 31001 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31002 in 0.0004 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31002 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31002 messages, 0 unconfirmed, 31002 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31003 in 0.0004 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31003 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31003 messages, 0 unconfirmed, 31003 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31004 in 0.0033 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31004 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31004 messages, 0 unconfirmed, 31004 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31005 in 0.0002 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31005 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31005 messages, 0 unconfirmed, 31005 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31006 in 0.0016 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31006 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31006 messages, 0 unconfirmed, 31006 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31007 in 0.0005 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31007 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31007 messages, 0 unconfirmed, 31007 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31008 in 0.0003 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31008 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31008 messages, 0 unconfirmed, 31008 acked, 0 nacked
+2025-04-11 17:42:02 - INFO - publisher:201 - Published message #31009 in 0.0002 seconds
+2025-04-11 17:42:02 - INFO - publisher:148 - Received ack for delivery tag: 31009 (multiple: False)
+2025-04-11 17:42:02 - INFO - publisher:165 - Published 31009 messages, 0 unconfirmed, 31009 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31010 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31010 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31010 messages, 0 unconfirmed, 31010 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31011 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31011 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31011 messages, 0 unconfirmed, 31011 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31012 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31012 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31012 messages, 0 unconfirmed, 31012 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31013 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31013 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31013 messages, 0 unconfirmed, 31013 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31014 in 0.0016 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31014 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31014 messages, 0 unconfirmed, 31014 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31015 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31015 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31015 messages, 0 unconfirmed, 31015 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31016 in 0.0003 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31016 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31016 messages, 0 unconfirmed, 31016 acked, 0 nacked
+2025-04-11 17:42:03 - INFO - publisher:201 - Published message #31017 in 0.0011 seconds
+2025-04-11 17:42:03 - INFO - publisher:148 - Received ack for delivery tag: 31017 (multiple: False)
+2025-04-11 17:42:03 - INFO - publisher:165 - Published 31017 messages, 0 unconfirmed, 31017 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31018 in 0.0032 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31018 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31018 messages, 0 unconfirmed, 31018 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31019 in 0.0062 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31019 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31019 messages, 0 unconfirmed, 31019 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31020 in 0.0024 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31020 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31020 messages, 0 unconfirmed, 31020 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31021 in 0.0061 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31021 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31021 messages, 0 unconfirmed, 31021 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31022 in 0.0002 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31022 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31022 messages, 0 unconfirmed, 31022 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31023 in 0.0013 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31023 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31023 messages, 0 unconfirmed, 31023 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31024 in 0.0023 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31024 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31024 messages, 0 unconfirmed, 31024 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31025 in 0.0003 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31025 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31025 messages, 0 unconfirmed, 31025 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31026 in 0.0004 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31026 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31026 messages, 0 unconfirmed, 31026 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31027 in 0.0003 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31027 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31027 messages, 0 unconfirmed, 31027 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31028 in 0.0002 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31028 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31028 messages, 0 unconfirmed, 31028 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31029 in 0.0003 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31029 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31029 messages, 0 unconfirmed, 31029 acked, 0 nacked
+2025-04-11 17:42:04 - INFO - publisher:201 - Published message #31030 in 0.0003 seconds
+2025-04-11 17:42:04 - INFO - publisher:148 - Received ack for delivery tag: 31030 (multiple: False)
+2025-04-11 17:42:04 - INFO - publisher:165 - Published 31030 messages, 0 unconfirmed, 31030 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31031 in 0.0003 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31031 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31031 messages, 0 unconfirmed, 31031 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31032 in 0.0003 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31032 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31032 messages, 0 unconfirmed, 31032 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31033 in 0.0010 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31033 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31033 messages, 0 unconfirmed, 31033 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31034 in 0.0004 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31034 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31034 messages, 0 unconfirmed, 31034 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31035 in 0.0002 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31035 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31035 messages, 0 unconfirmed, 31035 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31036 in 0.0003 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31036 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31036 messages, 0 unconfirmed, 31036 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31037 in 0.0005 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31037 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31037 messages, 0 unconfirmed, 31037 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31038 in 0.0003 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31038 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31038 messages, 0 unconfirmed, 31038 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31039 in 0.0004 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31039 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31039 messages, 0 unconfirmed, 31039 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31040 in 0.0090 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31040 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31040 messages, 0 unconfirmed, 31040 acked, 0 nacked
+2025-04-11 17:42:05 - INFO - publisher:201 - Published message #31041 in 0.0044 seconds
+2025-04-11 17:42:05 - INFO - publisher:148 - Received ack for delivery tag: 31041 (multiple: False)
+2025-04-11 17:42:05 - INFO - publisher:165 - Published 31041 messages, 0 unconfirmed, 31041 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31042 in 0.0006 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31042 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31042 messages, 0 unconfirmed, 31042 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31043 in 0.0024 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31043 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31043 messages, 0 unconfirmed, 31043 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31044 in 0.0002 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31044 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31044 messages, 0 unconfirmed, 31044 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31045 in 0.0055 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31045 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31045 messages, 0 unconfirmed, 31045 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31046 in 0.0012 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31046 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31046 messages, 0 unconfirmed, 31046 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31047 in 0.0008 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31047 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31047 messages, 0 unconfirmed, 31047 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31048 in 0.0002 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31048 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31048 messages, 0 unconfirmed, 31048 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31049 in 0.0004 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31049 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31049 messages, 0 unconfirmed, 31049 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31050 in 0.0002 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31050 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31050 messages, 0 unconfirmed, 31050 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31051 in 0.0005 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31051 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31051 messages, 0 unconfirmed, 31051 acked, 0 nacked
+2025-04-11 17:42:06 - INFO - publisher:201 - Published message #31052 in 0.0006 seconds
+2025-04-11 17:42:06 - INFO - publisher:148 - Received ack for delivery tag: 31052 (multiple: False)
+2025-04-11 17:42:06 - INFO - publisher:165 - Published 31052 messages, 0 unconfirmed, 31052 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31053 in 0.0013 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31053 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31053 messages, 0 unconfirmed, 31053 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31054 in 0.0002 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31054 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31054 messages, 0 unconfirmed, 31054 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31055 in 0.0034 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31055 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31055 messages, 0 unconfirmed, 31055 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31056 in 0.0003 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31056 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31056 messages, 0 unconfirmed, 31056 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31057 in 0.0003 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31057 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31057 messages, 0 unconfirmed, 31057 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31058 in 0.0003 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31058 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31058 messages, 0 unconfirmed, 31058 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31059 in 0.0004 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31059 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31059 messages, 0 unconfirmed, 31059 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31060 in 0.0005 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31060 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31060 messages, 0 unconfirmed, 31060 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31061 in 0.0003 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31061 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31061 messages, 0 unconfirmed, 31061 acked, 0 nacked
+2025-04-11 17:42:07 - INFO - publisher:201 - Published message #31062 in 0.0015 seconds
+2025-04-11 17:42:07 - INFO - publisher:148 - Received ack for delivery tag: 31062 (multiple: False)
+2025-04-11 17:42:07 - INFO - publisher:165 - Published 31062 messages, 0 unconfirmed, 31062 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31063 in 0.0004 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31063 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31063 messages, 0 unconfirmed, 31063 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31064 in 0.0066 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31064 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31064 messages, 0 unconfirmed, 31064 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31065 in 0.0037 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31065 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31065 messages, 0 unconfirmed, 31065 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31066 in 0.0073 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31066 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31066 messages, 0 unconfirmed, 31066 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31067 in 0.0006 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31067 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31067 messages, 0 unconfirmed, 31067 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31068 in 0.0008 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31068 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31068 messages, 0 unconfirmed, 31068 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31069 in 0.0003 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31069 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31069 messages, 0 unconfirmed, 31069 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31070 in 0.0006 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31070 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31070 messages, 0 unconfirmed, 31070 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31071 in 0.0004 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31071 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31071 messages, 0 unconfirmed, 31071 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31072 in 0.0004 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31072 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31072 messages, 0 unconfirmed, 31072 acked, 0 nacked
+2025-04-11 17:42:08 - INFO - publisher:201 - Published message #31073 in 0.0003 seconds
+2025-04-11 17:42:08 - INFO - publisher:148 - Received ack for delivery tag: 31073 (multiple: False)
+2025-04-11 17:42:08 - INFO - publisher:165 - Published 31073 messages, 0 unconfirmed, 31073 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31074 in 0.0003 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31074 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31074 messages, 0 unconfirmed, 31074 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31075 in 0.0002 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31075 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31075 messages, 0 unconfirmed, 31075 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31076 in 0.0003 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31076 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31076 messages, 0 unconfirmed, 31076 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31077 in 0.0003 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31077 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31077 messages, 0 unconfirmed, 31077 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31078 in 0.0004 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31078 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31078 messages, 0 unconfirmed, 31078 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31079 in 0.0003 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31079 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31079 messages, 0 unconfirmed, 31079 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31080 in 0.0028 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31080 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31080 messages, 0 unconfirmed, 31080 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31081 in 0.0003 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31081 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31081 messages, 0 unconfirmed, 31081 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31082 in 0.0006 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31082 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31082 messages, 0 unconfirmed, 31082 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31083 in 0.0004 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31083 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31083 messages, 0 unconfirmed, 31083 acked, 0 nacked
+2025-04-11 17:42:09 - INFO - publisher:201 - Published message #31084 in 0.0006 seconds
+2025-04-11 17:42:09 - INFO - publisher:148 - Received ack for delivery tag: 31084 (multiple: False)
+2025-04-11 17:42:09 - INFO - publisher:165 - Published 31084 messages, 0 unconfirmed, 31084 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31085 in 0.0003 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31085 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31085 messages, 0 unconfirmed, 31085 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31086 in 0.0024 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31086 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31086 messages, 0 unconfirmed, 31086 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31087 in 0.0003 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31087 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31087 messages, 0 unconfirmed, 31087 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31088 in 0.0004 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31088 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31088 messages, 0 unconfirmed, 31088 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31089 in 0.0003 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31089 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31089 messages, 0 unconfirmed, 31089 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31090 in 0.0007 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31090 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31090 messages, 0 unconfirmed, 31090 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31091 in 0.0004 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31091 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31091 messages, 0 unconfirmed, 31091 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31092 in 0.0007 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31092 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31092 messages, 0 unconfirmed, 31092 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31093 in 0.0003 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31093 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31093 messages, 0 unconfirmed, 31093 acked, 0 nacked
+2025-04-11 17:42:10 - INFO - publisher:201 - Published message #31094 in 0.0003 seconds
+2025-04-11 17:42:10 - INFO - publisher:148 - Received ack for delivery tag: 31094 (multiple: False)
+2025-04-11 17:42:10 - INFO - publisher:165 - Published 31094 messages, 0 unconfirmed, 31094 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31095 in 0.0005 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31095 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31095 messages, 0 unconfirmed, 31095 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31096 in 0.0003 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31096 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31096 messages, 0 unconfirmed, 31096 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31097 in 0.0003 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31097 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31097 messages, 0 unconfirmed, 31097 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31098 in 0.0004 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31098 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31098 messages, 0 unconfirmed, 31098 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31099 in 0.0003 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31099 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31099 messages, 0 unconfirmed, 31099 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31100 in 0.0009 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31100 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31100 messages, 0 unconfirmed, 31100 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31101 in 0.0004 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31101 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31101 messages, 0 unconfirmed, 31101 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31102 in 0.0003 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31102 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31102 messages, 0 unconfirmed, 31102 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31103 in 0.0002 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31103 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31103 messages, 0 unconfirmed, 31103 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31104 in 0.0002 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31104 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31104 messages, 0 unconfirmed, 31104 acked, 0 nacked
+2025-04-11 17:42:11 - INFO - publisher:201 - Published message #31105 in 0.0003 seconds
+2025-04-11 17:42:11 - INFO - publisher:148 - Received ack for delivery tag: 31105 (multiple: False)
+2025-04-11 17:42:11 - INFO - publisher:165 - Published 31105 messages, 0 unconfirmed, 31105 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31106 in 0.0003 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31106 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31106 messages, 0 unconfirmed, 31106 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31107 in 0.0004 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31107 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31107 messages, 0 unconfirmed, 31107 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31108 in 0.0004 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31108 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31108 messages, 0 unconfirmed, 31108 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31109 in 0.0003 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31109 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31109 messages, 0 unconfirmed, 31109 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31110 in 0.0004 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31110 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31110 messages, 0 unconfirmed, 31110 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31111 in 0.0003 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31111 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31111 messages, 0 unconfirmed, 31111 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31112 in 0.0004 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31112 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31112 messages, 0 unconfirmed, 31112 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31113 in 0.0003 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31113 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31113 messages, 0 unconfirmed, 31113 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31114 in 0.0003 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31114 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31114 messages, 0 unconfirmed, 31114 acked, 0 nacked
+2025-04-11 17:42:12 - INFO - publisher:201 - Published message #31115 in 0.0006 seconds
+2025-04-11 17:42:12 - INFO - publisher:148 - Received ack for delivery tag: 31115 (multiple: False)
+2025-04-11 17:42:12 - INFO - publisher:165 - Published 31115 messages, 0 unconfirmed, 31115 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31116 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31116 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31116 messages, 0 unconfirmed, 31116 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31117 in 0.0004 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31117 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31117 messages, 0 unconfirmed, 31117 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31118 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31118 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31118 messages, 0 unconfirmed, 31118 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31119 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31119 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31119 messages, 0 unconfirmed, 31119 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31120 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31120 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31120 messages, 0 unconfirmed, 31120 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31121 in 0.0002 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31121 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31121 messages, 0 unconfirmed, 31121 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31122 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31122 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31122 messages, 0 unconfirmed, 31122 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31123 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31123 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31123 messages, 0 unconfirmed, 31123 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31124 in 0.0003 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31124 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31124 messages, 0 unconfirmed, 31124 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31125 in 0.0008 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31125 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31125 messages, 0 unconfirmed, 31125 acked, 0 nacked
+2025-04-11 17:42:13 - INFO - publisher:201 - Published message #31126 in 0.0002 seconds
+2025-04-11 17:42:13 - INFO - publisher:148 - Received ack for delivery tag: 31126 (multiple: False)
+2025-04-11 17:42:13 - INFO - publisher:165 - Published 31126 messages, 0 unconfirmed, 31126 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31127 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31127 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31127 messages, 0 unconfirmed, 31127 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31128 in 0.0005 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31128 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31128 messages, 0 unconfirmed, 31128 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31129 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31129 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31129 messages, 0 unconfirmed, 31129 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31130 in 0.0032 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31130 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31130 messages, 0 unconfirmed, 31130 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31131 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31131 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31131 messages, 0 unconfirmed, 31131 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31132 in 0.0010 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31132 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31132 messages, 0 unconfirmed, 31132 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31133 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31133 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31133 messages, 0 unconfirmed, 31133 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31134 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31134 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31134 messages, 0 unconfirmed, 31134 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31135 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31135 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31135 messages, 0 unconfirmed, 31135 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31136 in 0.0003 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31136 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31136 messages, 0 unconfirmed, 31136 acked, 0 nacked
+2025-04-11 17:42:14 - INFO - publisher:201 - Published message #31137 in 0.0004 seconds
+2025-04-11 17:42:14 - INFO - publisher:148 - Received ack for delivery tag: 31137 (multiple: False)
+2025-04-11 17:42:14 - INFO - publisher:165 - Published 31137 messages, 0 unconfirmed, 31137 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31138 in 0.0003 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31138 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31138 messages, 0 unconfirmed, 31138 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31139 in 0.0009 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31139 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31139 messages, 0 unconfirmed, 31139 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31140 in 0.0002 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31140 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31140 messages, 0 unconfirmed, 31140 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31141 in 0.0004 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31141 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31141 messages, 0 unconfirmed, 31141 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31142 in 0.0004 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31142 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31142 messages, 0 unconfirmed, 31142 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31143 in 0.0054 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31143 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31143 messages, 0 unconfirmed, 31143 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31144 in 0.0003 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31144 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31144 messages, 0 unconfirmed, 31144 acked, 0 nacked
+2025-04-11 17:42:15 - INFO - publisher:201 - Published message #31145 in 0.0034 seconds
+2025-04-11 17:42:15 - INFO - publisher:148 - Received ack for delivery tag: 31145 (multiple: False)
+2025-04-11 17:42:15 - INFO - publisher:165 - Published 31145 messages, 0 unconfirmed, 31145 acked, 0 nacked
+2025-04-16 11:07:46 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:07:46 - INFO - publisher:238 - Publisher thread started.
+2025-04-16 11:07:46 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:07:51 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:07:51 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:07:56 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:07:56 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:01 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:01 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:06 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:06 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:11 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:11 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:16 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:16 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:21 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:21 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:26 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:26 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:31 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:31 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:36 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:36 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:41 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:41 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:46 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:46 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:51 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:51 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:08:56 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:08:56 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:01 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:01 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:06 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:06 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:11 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:11 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:16 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:16 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:21 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:21 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:26 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:26 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:31 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:31 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:36 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:36 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:41 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:41 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:46 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:46 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:51 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:51 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:09:57 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:09:57 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:10:02 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:10:02 - ERROR - publisher:66 - Connection open failed: 
+2025-04-16 11:10:17 - INFO - publisher:47 - Connecting to amqp://root:winempresas@10.23.63.56:5672/%2F
+2025-04-16 11:10:17 - INFO - publisher:238 - Publisher thread started.
+2025-04-16 11:10:17 - INFO - publisher:59 - Connection opened
+2025-04-16 11:10:17 - INFO - publisher:85 - Creating a new channel
+2025-04-16 11:10:17 - INFO - publisher:92 - Channel opened
+2025-04-16 11:10:17 - INFO - publisher:101 - Adding channel close callback
+2025-04-16 11:10:17 - INFO - publisher:117 - Declaring exchange objs_detected
+2025-04-16 11:10:17 - INFO - publisher:130 - Exchange declared: objs_detected. Publisher is ready.
+2025-04-16 11:10:17 - INFO - publisher:137 - Enabling delivery confirmations
